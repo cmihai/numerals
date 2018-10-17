@@ -1,0 +1,23 @@
+{
+  "name": "numerals",
+  "version": "1.0.0",
+  "description": "Convert a number into Roman numerals",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cmihai/numerals.git"
+  },
+  "author": "Mihai C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmihai/numerals/issues"
+  },
+  "homepage": "https://github.com/cmihai/numerals#readme",
+  "devDependencies": {
+    "roman-numerals": "^0.3.2"
+  }
+}
